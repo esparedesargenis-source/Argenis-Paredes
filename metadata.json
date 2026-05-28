@@ -1,0 +1,6 @@
+{
+  "name": "Argenis Paredes",
+  "description": "Plataforma de servicios de construcción general, mantenimiento de obras y seguimiento transaccional con QR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
